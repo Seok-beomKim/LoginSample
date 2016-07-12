@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginSample</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="fingerprint_setting">Fingerprint</string>
+    <string name="fingerprint_setting_key">fingerprint_setting_key</string>
+</resources>
